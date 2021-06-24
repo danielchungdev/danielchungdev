@@ -6,12 +6,8 @@ I'm currently looking for co-op/internships for Fall 2021 or Spring 2022 and exp
 
 Technology Stack 💻
 ----
-- JavaScript
-- Python
-- Node.js
-- HTML
-- CSS
-- React.js
-- Java
-- Swift
-- PHP
+Back-end  | Front-end | Database
+------------- | ------------- | -------------
+JavaScript/Node.js  | React.js | MongoDB
+Python  | HTML  | Oracle
+Java  | CSS  | MySQL
