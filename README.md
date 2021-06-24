@@ -4,9 +4,7 @@ My name is Daniel Chung and I'm a **Full-Stack engineer** from Panama 🇵🇦. 
 
 I'm currently looking for co-op/internships for Fall 2021 or Spring 2022 and expected graduation Fall 2022. 
 
-Feel free to contact me 😊
-
-[linkedin](https://www.linkedin.com/in/danielchungg/) | [email](mailto:dec8768@rit.edu)
+Feel free to contact me 😊 [linkedin](https://www.linkedin.com/in/danielchungg/) | [email](mailto:dec8768@rit.edu)
 
 You can check my [website here](https://dchung.me/). 
 
