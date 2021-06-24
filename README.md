@@ -11,4 +11,11 @@ Database  | Back-end | Front-end
 MongoDB  | JavaScript/Node.js | React.js
 Oracle  | Python  | HTML
 MySQL  | Java  | CSS
-NoSQL  | Swift | SwiftUI
+DynamoDB  | Swift | SwiftUI
+
+Currently Learning/Reinforcing 🤓
+----
+[x] Datastructures & Algorithms 
+[] Vue.js 
+[] Angular.js
+[] Three.js
