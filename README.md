@@ -16,6 +16,6 @@ DynamoDB  | Swift | SwiftUI
 Currently Learning/Reinforcing 🤓
 ----
 - [x] Datastructures & Algorithms 
-- [] Vue.js 
-- [] Angular.js
-- [] Three.js
+- [ ] Vue.js 
+- [ ] Angular.js
+- [ ] Three.js
