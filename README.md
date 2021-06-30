@@ -6,7 +6,7 @@ I'm currently looking for co-op/internships for Fall 2021 or Spring 2022 and exp
 
 Feel free to contact me 😊 [linkedin](https://www.linkedin.com/in/danielchungg/) | [email](mailto:dec8768@rit.edu)
 
-You can check my [website here](https://dchung.me/). 
+You can check my [website here](https://pikachungg.github.io/website/). 
 
 Technology Stack 💻
 ----
