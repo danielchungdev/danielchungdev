@@ -6,7 +6,7 @@ I'm currently a Software Developer Intern at [Mindex](https://www.mindex.com/).
 
 Feel free to contact me 😊 [linkedin](https://www.linkedin.com/in/danielchungg/) | [email](mailto:dec8768@rit.edu)
 
-You can check my [website here](https://www.pikachungg.com).: 
+You can check my [website here](https://www.pikachungg.com).
 
 Technology Stack 💻
 ----
