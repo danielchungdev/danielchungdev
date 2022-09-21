@@ -16,10 +16,3 @@ MongoDB  | JavaScript/Node.js | React.js
 Oracle  | Python  | HTML
 MySQL  | Java  | CSS
 DynamoDB  | Swift | SwiftUI
-
-Currently Learning/Reinforcing 🤓
-----
-- [x] Datastructures & Algorithms 
-- [ ] Vue.js 
-- [ ] Angular.js
-- [ ] Three.js
